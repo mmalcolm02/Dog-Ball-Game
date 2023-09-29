@@ -24,7 +24,7 @@ public class PlayerControllerX : MonoBehaviour
 
         //reset the timer
         timer += Time.deltaTime;
-        Debug.Log(timer);
+        
 
     }
 
